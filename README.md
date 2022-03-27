@@ -4,6 +4,7 @@
 - 👀 ***fazer amizades e ganhar pontos na materia***
 - *email de ctt: henrique.santos.cordeiro@escola.pr.gov.br*
 - *comecei recemente javascript e scratch*
+- ![JavaScript](https://img.shields.io/badges/JavaScript-323330?style-for-the-badge&logo-javascript&logoColor=F7DF1E)
 
 <!---
 henriquelindaocareca/henriquelindaocareca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

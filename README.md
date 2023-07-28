@@ -7,6 +7,6 @@
 - ![JavaScript](https://img.shields.io/badges/JavaScript-323330?style-for-the-badge&logo-javascript&logoColor=F7DF1E)
 
 <!---
-henriquelindaocareca/henriquelindaocareca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+henriquesemautoestima/henriquesemautoestima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
